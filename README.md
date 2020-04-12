@@ -1,6 +1,31 @@
-# AngularForms
+### AngularForms
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.7.
+
+### :computer: Technologies
+
+- [Angular](https://angular.io)
+- [TypeScript](https://www.typescriptlang.org)
+- [JavaScript](https://www.javascript.com)
+- [HTML](https://www.w3.org)
+- [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
+
+
+<!-- ### :arrow_forward: How to run
+
+Inside the terminal:
+<p>$ git clone https://github.com/Jurfest/gym-website-launchbase.git</p>
+<p>$ cd gym-website-launchbase</p>
+<p>$ yarn init -y</p>
+<p>$ yarn add express</p>
+<p>$ yarn add nodemon -D</p>
+<p>$ yarn add nunjucks</p>
+<p>$ yarn add method-override</p> 
+<p>$ yarn start</p> testar melhor jeito pois script não configurado
+
+
+Inside the browser:
+<p>http://localhost:5000</p> -->
 
 ## Development server
 
@@ -25,3 +50,9 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+### Thats it ! :wave:
+
+---
+
+by Diego Jurfest :tada:
