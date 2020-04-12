@@ -1,5 +1,7 @@
 ### AngularForms
 
+Angular templete-driven forms example with two-way data binding with ngModel. Source code from https://angular.io/guide/forms
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.7.
 
 ### :computer: Technologies
